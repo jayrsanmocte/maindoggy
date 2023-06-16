@@ -35,7 +35,7 @@ import { useLocation } from 'react-router-dom';
   
     return (
       <div className="container mt-5">
-        <h2>APPLICANT'S INFO</h2>
+        <h2>AAAASDAD</h2>
         <form onSubmit={handleSubmit}>
           {/* Name */}
           <h4>Name*</h4>
