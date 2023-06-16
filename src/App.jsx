@@ -6,14 +6,14 @@ import LoginForm from './components/Login&Register/LoginForm';
 import RegisterForm from './components/Login&Register/RegisterForm';
 import Adopt from './components/Adopt/Adopt';
 import ApplicantsInfo from './components/Adopt/ApplicantsInfo';
-import Dogdata from './components/dogdata/Dogdata';
+import Dogdata from './components/Dogdata/Dogdata';
 import About from './components/About/About';
-import SearchDog from './components/dogdata/SearchDog';
+import SearchDog from './components/Dogdata/SearchDog';
 
-
+  
   const App = () => {
     const [selectedDogName, setSelectedDogName] = useState('');
-
+  
     return (
       <>
         <Routes>
