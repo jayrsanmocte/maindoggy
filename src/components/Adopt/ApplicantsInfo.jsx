@@ -32,10 +32,10 @@ import { useLocation } from 'react-router-dom';
       e.preventDefault();
       // Handle form submission logic here
     };
-  
+      
     return (
       <div className="container mt-5">
-        <h2>AAAASDAD</h2>
+        <h2>AAAASDADq</h2>
         <form onSubmit={handleSubmit}>
           {/* Name */}
           <h4>Name*</h4>
